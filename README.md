@@ -263,9 +263,8 @@ Through this project, I learned:
 
 # 👨‍💻 Developer
 
-| Name | Roll No |
-|------|----------|
-| **Irfan** | **L1F24BSCS0580** |
+**Irfan**  
+**L1F24BSCS0580**
 
 ---
 
